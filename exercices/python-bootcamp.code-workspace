@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../LSD_C_LAB_S3"
+		},
+		{
+			"path": "../../projects/libft"
+		},
+		{
+			"path": "../../LSD_C_LAB_S3/TP03"
+		},
+		{
+			"path": "../../LSD_C_LAB_S3/TP02"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Snake_Game",
+		"files.associations": {
+			"libft.h": "c"
+		},
+		"jupyter.jupyterServerType": "local"
+	}
+}
